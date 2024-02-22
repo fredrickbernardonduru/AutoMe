@@ -15,6 +15,6 @@ export default function ThemeToggle() {
         size={24}
         className="rotate-0 scale-100 transition-all dark:-rotate-90 dark:scale-0"
       />
-    </button
+    </button>
   );
 }
