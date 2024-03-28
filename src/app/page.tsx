@@ -6,7 +6,7 @@ import { H2 } from "@/components/ui/H2";
 import { Bot } from "lucide-react";
 
 export const metadata: Metadata = {
-  title: "Fredrick Bernard - ",
+  title: "Fredrick Bernard - Portfolio",
 };
 
 export default function Home() {
