@@ -51,3 +51,8 @@ directory_path = r"C:\Users\Fredrich Bernard\Desktop\Online Writing\Pullman\New 
 variances = process_images_in_directory(directory_path)
 
 print(f"Variances for all images: {variances}")
+directory_path = r"C:\Users\Fredrich Bernard\Desktop\Online Writing\Pullman\New folder (2)\Photos"
+variances = process_images_in_directory(directory_path)
+
+print(f"Variances for all images: {variances}")
+                
