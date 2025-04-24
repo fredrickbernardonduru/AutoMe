@@ -1,7 +1,6 @@
 import cv2
 import numpy as np
 import os
-#import os
 import matplotlib.pyplot as plt
 
 def divide_into_blocks(image, block_size=5):
