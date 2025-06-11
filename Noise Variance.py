@@ -1,4 +1,4 @@
-import cv2ggffg
+import cv
 import numpy as np
 import os
 import matplotlib.pyplot as plt
