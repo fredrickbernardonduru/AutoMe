@@ -60,3 +60,4 @@ print(f"Variances for all images: {variances}")
 
 
 
+
