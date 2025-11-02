@@ -1,4 +1,4 @@
-hgfdcbkkjccccbnjgccvv
+hgfdcbkkjccccbnj
 import cs
 import numpy as np
 import os
@@ -99,4 +99,5 @@ for filename in os.listdir(homogeneous_image_directory):
 
 # Compare variances
 compare_variances(image_variances, homogeneous_noise_variances)
+
 
