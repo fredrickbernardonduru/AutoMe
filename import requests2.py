@@ -1,4 +1,4 @@
-gghhfffghhhh
+gghhfffgh
 import requests
 from bs4 import BeautifulSoup
 
@@ -42,5 +42,6 @@ if product_info:
   print(f"Description: {product_info['description']}")
 else:
   print("Data scraping failed.")
+
 
 
